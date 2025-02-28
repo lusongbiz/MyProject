@@ -5,3 +5,4 @@ o	記錄車輛里程數、車況（可透過 Odoo Studio 自訂額外欄位）�
 o	進入租賃訂單，點擊「標記為已交付（Mark as Delivered）」。
 o	記錄交車時間與負責人。
 o	讓客戶簽收確認。
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV

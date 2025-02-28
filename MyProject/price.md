@@ -1,4 +1,4 @@
-1.	進入租賃模組： 
+1.	ppppppppppppppppppppppppp 
 o	Odoo 後台 → 「租賃（Rental）」 模組。
 2.	建立租賃訂單： 
 o	點擊「新建（Create）」。

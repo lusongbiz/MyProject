@@ -6,3 +6,4 @@ o	進入租賃訂單，點擊「標記為已交付（Mark as Delivered）」。
 o	記錄交車時間與負責人。
 o	讓客戶簽收確認。
 VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+11111111111111111111111111111111

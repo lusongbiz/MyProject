@@ -1,0 +1,6 @@
+SSSSSSSSSSSSSSSSSSSSSSSSSSS
+客戶	張先生
+車輛	Toyota Camry
+租賃期間	2025/03/01 - 2025/03/07
+每日租金	NT$2,500
+總金額	NT$17,500
